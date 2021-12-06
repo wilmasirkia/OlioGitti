@@ -30,8 +30,6 @@ class Lelu {
 	}
 } 
 
-
-
 class VieteriAuto extends Lelu {
 	public int nopeus;
 	public VieteriAuto() {
@@ -50,7 +48,6 @@ class VieteriAuto extends Lelu {
 		this.nopeus = nopeus;
 		nopeus = nopeus++;
 	}
-	
 	
 	@Override  
 	public void tulostaTiedot()	{    
