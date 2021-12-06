@@ -7,7 +7,7 @@ public class LeluTehtava {
 		VieteriAuto vieteriAuto = new VieteriAuto("Renault", 10, 100);
 		vieteriAuto.tulostaTiedot();
 		}		
-} 
+} //tähän päättyy
 
 class Lelu {
 	
